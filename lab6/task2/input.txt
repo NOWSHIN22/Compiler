@@ -1,0 +1,6 @@
+a = 9
+b = sqrt(a)
+c = pow(a, 3)
+d = log(b) + sin(a)
+e = cos(c) * tan(d)
+f = abs(-a + b) / exp(2)
